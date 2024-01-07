@@ -22,3 +22,7 @@ https://www.liuyebin.com/pymaf-x/
 https://github.com/camenduru/PyMAF-X-colab/assets/54370274/05e487cc-65b4-45e5-b493-7a858eef6d24
 
 https://github.com/camenduru/PyMAF-X-colab/assets/54370274/47fbcdc9-7839-483e-af9d-50767ebff6f3
+
+https://github.com/camenduru/PyMAF-X-colab/assets/54370274/c38b8721-2712-48cb-82c0-71f61dbb520a
+
+https://github.com/camenduru/PyMAF-X-colab/assets/54370274/de6b6dab-1de9-45ed-82e3-8cfe78600caf
